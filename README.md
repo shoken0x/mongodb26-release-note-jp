@@ -1,10 +1,11 @@
 # Release Notes for MongoDB 2.6
 
-MongoDB 2.6 is now available. Key features include aggregation enhancements, text search integration, query engine improvements, a new write operation protocol, and security enhancements.
+MongoDB 2.6がリリースされました。新機能として、アグリゲーションフレームワークの改善、統合的テキスト検索、クエリーエンジンの改善、新しい書き込みオペレーション、セキュリティ修正が含まれています。
 
-MMS 1.4, which includes On-Prem Backup in addition to Monitoring, is now also available. See MMS 1.4 documentation and the MMS 1.4 release notes for more information.
+また、オンプレミスサーバーのバックアップに加え、モニタリングも可能になったMMS 1.4もリリースされました。詳細はMMS 1.4のドキュメントとMMS 1.4のリリースノートを参照してください。
 
-http://docs.mongodb.org/master/release-notes/2.6/
+_訳注: リリースノート原文_
+_(http://docs.mongodb.org/master/release-notes/2.6/)_
 
 
 ## Major Changes
